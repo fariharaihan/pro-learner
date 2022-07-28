@@ -1,0 +1,23 @@
+.my-image {
+    filter: brightness(50%);
+}
+
+.button-color,
+.reg-body-color {
+    background-color: #289bde;
+}
+
+.body-color {
+    background-color: #f4fafd;
+}
+
+@media only screen and (max-width:668px) {
+    .container {
+        width: 100%;
+        overflow-y: hidden;
+    }
+
+    .my-image {
+        height: 450px;
+    }
+}
