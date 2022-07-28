@@ -11,6 +11,7 @@
     background-color: #f4fafd;
 }
 
+/* ------------media query for mobile device----------- */
 @media only screen and (max-width:668px) {
     .container {
         width: 100%;
